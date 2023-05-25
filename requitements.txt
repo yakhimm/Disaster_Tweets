@@ -1,0 +1,3 @@
+pip install tqdm
+pip install wordcloud
+pip install nltk
