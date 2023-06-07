@@ -1,35 +1,37 @@
-Group 0: - id=59, check nsfw, target=0, location=Live On Webcam, key=ablaze
+Group 0: - id=48, wholesale markets ablaze, target=1, location=Birmingham, key=ablaze
+ - id=93, huge fire wholesale markets ablaze, target=1, location=Birmingham, key=ablaze
+Group 1: - id=59, check nsfw, target=0, location=Live On Webcam, key=ablaze
  - id=68, check nsfw, target=0, location=Live On Webcam, key=ablaze
-Group 1: - id=107, i77 mile marker 31 south mooresville iredell vehicle accident ramp closed 86 118 pm, target=1, location=North Carolina, key=accident
+Group 2: - id=107, i77 mile marker 31 south mooresville iredell vehicle accident ramp closed 86 118 pm, target=1, location=North Carolina, key=accident
  - id=113, i77 mile marker 31 40 south mooresville iredell vehicle accident congestion 86 118 pm, target=1, location=North Carolina, key=accident
-Group 2: - id=151, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
- - id=164, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
- - id=171, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
- - id=172, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
-Group 3: - id=156, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=US, key=aftershock
- - id=165, 320 ir icemoon aftershock djicemoon dubstep trapmusic dnb edm dance ices, target=0, location=US, key=aftershock
-Group 4: - id=254, ambulance sprinter automatic frontline vehicle choice 14 lez compliant ebay, target=0, location=Happily Married with 2 kids , key=ambulance
+Group 3: - id=151, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
+ - id=164, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
+ - id=171, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
+ - id=172, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=Switzerland, key=aftershock
+Group 4: - id=156, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=US, key=aftershock
+ - id=165, 320 ir icemoon aftershock dubstep trapmusic dnb edm dance ices, target=0, location=US, key=aftershock
+Group 5: - id=254, ambulance sprinter automatic frontline vehicle choice 14 lez compliant ebay, target=0, location=Happily Married with 2 kids , key=ambulance
  - id=265, ambulance sprinter automatic frontline vehicle choice 14 lez compliant ebay, target=0, location=Happily Married with 2 kids , key=ambulance
  - id=271, ambulance sprinter automatic frontline vehicle choice 14 lez compliant ebay, target=0, location=Happily Married with 2 kids , key=ambulance
  - id=272, ambulance sprinter automatic frontline vehicle choice 14 lez compliant ebay, target=0, location=Happily Married with 2 kids , key=ambulance
-Group 5: - id=353, world annihilation vs self transformation aliens attack exterminate humans, target=0, location=Subconscious LA, key=annihilation
+Group 6: - id=353, world annihilation vs self transformation aliens attack exterminate humans, target=0, location=Subconscious LA, key=annihilation
  - id=390, world annihilation vs self transformation aliens attack exterminate humans, target=1, location=Subconscious LA, key=annihilation
-Group 6: - id=446, pbban temporary300 avysss armageddon kill flags fast xp reason, target=0, location=California, United States, key=armageddon
- - id=447, pbban temporary300 russaky89 armageddon kill flags fast xp reason, target=0, location=California, United States, key=armageddon
- - id=462, pbban temporary300 hyiderghost2 armageddon kill flags fast xp reason, target=1, location=California, United States, key=armageddon
-Group 7: - id=448, official vid doublecups gtgt gtgt trubgme prod thisizbwright gtgt armageddon, target=0, location=#FLIGHTCITY UK  , key=armageddon
- - id=485, official vid gt doublecups gtgt gtgt trubgme prod thisizbwright gtgt armageddon, target=0, location=#FLIGHTCITY UK  , key=armageddon
-Group 8: - id=528, wwi wwii japanese army navy military japan leather watch war mido ww1 2 full read ebay, target=0, location=New York, key=army
+Group 7: - id=446, pbban temporary300 avysss kill flags fast xp reason, target=0, location=California, United States, key=armageddon
+ - id=447, pbban temporary300 russaky89 kill flags fast xp reason, target=0, location=California, United States, key=armageddon
+ - id=462, pbban temporary300 hyiderghost2 kill flags fast xp reason, target=1, location=California, United States, key=armageddon
+Group 8: - id=448, official vid doublecups gtgt gtgt prod gtgt armageddon, target=0, location=#FLIGHTCITY UK  , key=armageddon
+ - id=485, official vid gt doublecups gtgt gtgt prod gtgt armageddon, target=0, location=#FLIGHTCITY UK  , key=armageddon
+Group 9: - id=528, wwi wwii japanese army navy military japan leather watch war mido ww1 2 full read ebay, target=0, location=New York, key=army
  - id=540, wwi wwii japanese army navy military japan leather watch war mido ww1 2 full read ebay, target=0, location=New York, key=army
-Group 9: - id=560, mourning notices stabbing arson victims stir politics grief israel, target=1, location=Jerusalem, key=arson
+Group 10: - id=560, mourning notices stabbing arson victims stir politics grief israel, target=1, location=Jerusalem, key=arson
  - id=574, mourning notices stabbing arson victims stir politics grief israel posters shira banki, target=0, location=Jerusalem, key=arson
-Group 10: - id=570, kisii police kisii hunt students failed arson plot police kisii hunt students countynews, target=1, location=Eldoret, kenya, key=arson
+Group 11: - id=570, kisii police kisii hunt students failed arson plot police kisii hunt students countynews, target=1, location=Eldoret, kenya, key=arson
  - id=579, kisii police kisii hunt students failed arson plot police kisii hunt students countynews, target=1, location=Eldoret, kenya, key=arson
-Group 11: - id=661, militants attack police post udhampur 2 spos injured livemint allthenews, target=1, location=India, key=attack
+Group 12: - id=661, militants attack police post udhampur 2 spos injured livemint allthenews, target=1, location=India, key=attack
  - id=6480, breakingnews militants attack udhampur police post 2 spos injured, target=1, location=India, key=injured
-Group 12: - id=796, star wars power jedi collection 1 battle droid hasbro full read ebay, target=1, location=New York, key=battle
+Group 13: - id=796, star wars power jedi collection 1 battle droid hasbro full read ebay, target=1, location=New York, key=battle
  - id=822, star wars power jedi collection 1 battle droid hasbro full read ebay, target=0, location=New York, key=battle
-Group 13: - id=805, black eye 9 space battle occurred star m27329 involving 1 fleets totaling 1236 ships 7 destroyed, target=1, location=USA, key=battle
+Group 14: - id=805, black eye 9 space battle occurred star m27329 involving 1 fleets totaling 1236 ships 7 destroyed, target=1, location=USA, key=battle
  - id=823, black eye 9 space battle occurred star o784 involving 2 fleets totaling 4103 ships 50 destroyed, target=0, location=USA, key=battle
  - id=3704, black eye 9 space battle occurred star o784 involving 3 fleets totaling 3941 ships 13 destroyed, target=0, location=USA, key=destroyed
  - id=3718, black eye 9 space battle occurred star o784 involving 2 fleets totaling 3967 ships 39 destroyed, target=0, location=USA, key=destroyed
@@ -38,202 +40,204 @@ Group 13: - id=805, black eye 9 space battle occurred star m27329 involving 1 fl
  - id=3738, black eye 9 space battle occurred star o784 involving 3 fleets totaling 3945 ships 17 destroyed, target=0, location=USA, key=destroyed
  - id=3742, black eye 9 space battle occurred star o784 involving 2 fleets totaling 3934 ships 7 destroyed, target=0, location=USA, key=destroyed
  - id=3747, black eye 9 space battle occurred star o784 involving 2 fleets totaling 3939 ships 11 destroyed, target=0, location=USA, key=destroyed
-Group 14: - id=1379, new ladies shoulder tote handbag women cross body bag faux leather fashion purse full re, target=0, location=New York, key=body bag
+Group 15: - id=841, fedex longer will ship potential bioterror pathogens via, target=0, location=Atlanta, GA, key=bioterror
+ - id=857, fedex longer will ship potential bioterror pathogens fedex corp nyse fdx will longer deliver packages, target=1, location=Atlanta, GA, key=bioterror
+Group 16: - id=1379, new ladies shoulder tote handbag women cross body bag faux leather fashion purse full re, target=0, location=New York, key=body bag
  - id=1380, new ladies shoulder tote handbag women cross body bag faux leather fashion purse full re, target=0, location=New York, key=body bag
  - id=1396, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens full read, target=0, location=New York, key=body bag
  - id=1422, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens full read, target=0, location=New York, key=body bag
-Group 15: - id=1384, louis vuitton monogram sophie limited edition clutch cross body bag full read ebay, target=0, location=New York, key=body bag
+Group 17: - id=1384, louis vuitton monogram sophie limited edition clutch cross body bag full read ebay, target=0, location=New York, key=body bag
  - id=1385, louis vuitton monogram sophie limited edition clutch cross body bag full read ebay, target=0, location=New York, key=body bag
  - id=1407, louis vuitton monogram sophie limited edition clutch cross body bag full read ebay, target=0, location=New York, key=body bag
  - id=1419, louis vuitton monogram sophie limited edition clutch cross body bag full read ebay, target=0, location=New York, key=body bag
-Group 16: - id=1394, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens rt en, target=0, location=California, USA, key=body bag
+Group 18: - id=1394, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens rt en, target=0, location=California, USA, key=body bag
  - id=1406, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens rt en, target=0, location=California, USA, key=body bag
-Group 17: - id=1402, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=0, location=Paignton, key=body bag
+Group 19: - id=1402, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=0, location=Paignton, key=body bag
  - id=1409, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=1, location=Paignton, key=body bag
-Group 18: - id=1414, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=0, location=Paignton, key=body bag
+Group 20: - id=1414, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=0, location=Paignton, key=body bag
  - id=1420, new ladies shoulder tote handbag faux leather hobo purse cross body bag womens, target=0, location=Paignton, key=body bag
-Group 19: - id=1484, womens buckle casual stylish shoulder handbags pockets cross body bags green, target=0, location=United Kingdom, key=body bags
+Group 21: - id=1484, womens buckle casual stylish shoulder handbags pockets cross body bags green, target=0, location=United Kingdom, key=body bags
  - id=1495, womens buckle casual stylish shoulder handbags pockets cross body bags white, target=0, location=United Kingdom, key=body bags
-Group 20: - id=1688, icymi ashes 2015 australia collapse trent bridge twitter reacted, target=1, location=Leicester, key=bridge collapse
+Group 22: - id=1688, icymi ashes 2015 australia collapse trent bridge twitter reacted, target=1, location=Leicester, key=bridge collapse
  - id=1715, leicestermerc icymi ashes 2015 australia collapse trent bridge twitter rea, target=0, location=Leicester, key=bridge collapse
-Group 21: - id=1689, warne shocked australias epic collapse trent bridge johannesburg aug 06 ani legendary australian, target=1, location=Mumbai , India, key=bridge collapse
+Group 23: - id=1689, warne shocked australias epic collapse trent bridge johannesburg aug 06 ani legendary australian, target=1, location=Mumbai , India, key=bridge collapse
  - id=2346, warne shocked australias epic collapse trent bridge johannesburg aug 06 ani legendary australian, target=1, location=Mumbai , India, key=collapse
-Group 22: - id=1723, mmmmmm im burning im burning buildings im building oooooohhhh oooh ooh, target=1, location=Mackay, QLD, Australia, key=buildings burning
+Group 24: - id=1723, mmmmmm im burning im burning buildings im building oooooohhhh oooh ooh, target=1, location=Mackay, QLD, Australia, key=buildings burning
  - id=1922, mmmmmm im burning im burning buildings im building oooooohhhh oooh ooh, target=0, location=Mackay, QLD, Australia, key=burning buildings
-Group 23: - id=1725, themagickidraps upset rally upset burning buildings businesses executing cops nothing etc, target=1, location=NJ, key=buildings burning
- - id=1941, themagickidraps upset rally upset burning buildings businesses executing cops nothing etc, target=1, location=NJ, key=burning buildings
-Group 24: - id=1727, minimehh cjoyner must overlooking burning buildings blacklivesmatter, target=1, location=Madison, GA, key=buildings burning
- - id=1957, minimehh cjoyner must overlooking burning buildings blacklivesmatter, target=1, location=Madison, GA, key=burning buildings
-Group 25: - id=1733, im mentally preparing bomb ass school year im burning buildings, target=0, location=St Charles, MD, key=buildings burning
+Group 25: - id=1725, upset rally upset burning buildings businesses executing cops nothing etc, target=1, location=NJ, key=buildings burning
+ - id=1941, upset rally upset burning buildings businesses executing cops nothing etc, target=1, location=NJ, key=burning buildings
+Group 26: - id=1727, must overlooking burning buildings blacklivesmatter, target=1, location=Madison, GA, key=buildings burning
+ - id=1957, must overlooking burning buildings blacklivesmatter, target=1, location=Madison, GA, key=burning buildings
+Group 27: - id=1733, im mentally preparing bomb ass school year im burning buildings, target=0, location=St Charles, MD, key=buildings burning
  - id=1924, im mentally preparing bomb ass school year im burning buildings, target=0, location=St Charles, MD, key=burning buildings
-Group 26: - id=1750, schools western uganda still burning buildings strikesstrikes western uganda always lit literally, target=1, location=In Hell, key=buildings burning
+Group 28: - id=1750, schools western uganda still burning buildings strikesstrikes western uganda always lit literally, target=1, location=In Hell, key=buildings burning
  - id=1962, schools western uganda still burning buildings strikesstrikes western uganda always lit literally, target=1, location=In Hell, key=burning buildings
-Group 27: - id=1752, pledge allegiance pope burning buildings epic city, target=0, location=Epic City, BB., key=buildings burning
+Group 29: - id=1752, pledge allegiance pope burning buildings epic city, target=0, location=Epic City, BB., key=buildings burning
  - id=1968, pledge allegiance pope burning buildings epic city, target=1, location=Epic City, BB., key=burning buildings
-Group 28: - id=1760, like music video want real action shit like burning buildings police chases weak ben winston shit, target=1, location=dallas, key=buildings burning
+Group 30: - id=1760, like music video want real action shit like burning buildings police chases weak ben winston shit, target=1, location=dallas, key=buildings burning
  - id=1950, like music video want real action shit like burning buildings police chases weak ben winston shit, target=0, location=dallas, key=burning buildings
-Group 29: - id=1761, burning buildings media outrage, target=1, location=New Orleans ,Louisiana, key=buildings burning
+Group 31: - id=1761, burning buildings media outrage, target=1, location=New Orleans ,Louisiana, key=buildings burning
  - id=1943, burning buildings media outrage, target=1, location=New Orleans ,Louisiana, key=burning buildings
-Group 30: - id=1771, fire hazard associated installation noncompliant external cladding wwwcbplawyers, target=1, location=World Wide, key=buildings on fire
- - id=1773, fire hazard associated installation noncompliant external cladding wwwcbplawyers, target=0, location=World Wide, key=buildings on fire
-Group 31: - id=2174, catastrophic effects hiroshima nagasaki atomic bombings still felt today, target=1, location=Inexpressible Island , key=catastrophic
+Group 32: - id=1771, fire hazard associated installation noncompliant external cladding, target=1, location=World Wide, key=buildings on fire
+ - id=1773, fire hazard associated installation noncompliant external cladding, target=0, location=World Wide, key=buildings on fire
+Group 33: - id=2174, catastrophic effects hiroshima nagasaki atomic bombings still felt today, target=1, location=Inexpressible Island , key=catastrophic
  - id=2192, catastrophic effects hiroshima nagasaki atomic bombings still felt today, target=1, location=Inexpressible Island , key=catastrophic
-Group 32: - id=2188, learning legacy catastrophic eruption new yorker, target=1, location=Planet Earth, key=catastrophic
+Group 34: - id=2188, learning legacy catastrophic eruption new yorker, target=1, location=Planet Earth, key=catastrophic
  - id=2193, learning legacy catastrophic eruption new yorker, target=1, location=Planet Earth, key=catastrophic
  - id=2198, learning legacy catastrophic eruption new yorker, target=1, location=Planet Earth, key=catastrophic
-Group 33: - id=2220, new job opening downtown emergency service center seattle chemical dependency counselor intern jobs, target=0, location=Seattle, Washington, key=chemical emergency
+Group 35: - id=2220, new job opening downtown emergency service center seattle chemical dependency counselor intern jobs, target=0, location=Seattle, Washington, key=chemical emergency
  - id=2229, downtown emergency service center hiring chemical dependency counselor intern seattle apply now jobs, target=0, location=Seattle, Washington, key=chemical emergency
  - id=2237, downtown emergency service center hiring chemical dependency counselor intern apply now seattle jobs, target=0, location=Seattle, Washington, key=chemical emergency
  - id=2240, downtown emergency service center hiring chemical dependency counselor intern seattle apply now jobs, target=0, location=Seattle, Washington, key=chemical emergency
-Group 34: - id=2233, emergency units simulate chemical explosion nu suppose student research labs northwestern, target=1, location=Evanston, IL, key=chemical emergency
+Group 36: - id=2233, emergency units simulate chemical explosion nu suppose student research labs northwestern, target=1, location=Evanston, IL, key=chemical emergency
  - id=2238, emergency units simulate chemical explosion nu suppose student research labs northwestern, target=1, location=Evanston, IL, key=chemical emergency
-Group 35: - id=2534, motorcyclist bicyclist injured denver collision broadway, target=1, location=Denver, Colorado, key=collision
+Group 37: - id=2534, motorcyclist bicyclist injured denver collision broadway, target=1, location=Denver, Colorado, key=collision
  - id=2546, motorcyclist bicyclist injured denver collision broadway, target=1, location=Denver, Colorado, key=collision
- - id=2547, motorcyclist bicyclist injured denver collision broadway kierannicholson, target=1, location=Denver, Colorado, key=collision
-Group 36: - id=2544, traffic collision injury i5 s i5 s 43rd ave offramp south sac, target=1, location=Sacramento, CA, key=collision
+ - id=2547, motorcyclist bicyclist injured denver collision broadway, target=1, location=Denver, Colorado, key=collision
+Group 38: - id=2544, traffic collision injury i5 s i5 s 43rd ave offramp south sac, target=1, location=Sacramento, CA, key=collision
  - id=6543, traffic collision injury i5 s i5 s 43rd ave offramp south sac, target=1, location=Sacramento, CA, key=injury
-Group 37: - id=2767, info s wnd 0306 cld sct014 bkn032 exp inst apch rwy 05 curfew oper 2030 z taxiways foxtrot 5 amp foxtrot 6 navbl tmp 10, target=0, location=Adelaide, Australia, key=curfew
+Group 39: - id=2767, info s wnd 0306 cld sct014 bkn032 exp inst apch rwy 05 curfew oper 2030 z taxiways foxtrot 5 amp foxtrot 6 navbl tmp 10, target=0, location=Adelaide, Australia, key=curfew
  - id=2787, info r curfew oper 2030 z taxiways foxtrot 5 amp foxtrot 6 navbl wnd 0605 exp inst apch rwy 05 damp tmp 10 qnh 1028, target=0, location=Adelaide, Australia, key=curfew
  - id=2792, info u cld sct012 bkn025 exp inst apch rwy 05 curfew oper 2030 z taxiways foxtrot 5 amp foxtrot 6 navbl tmp 10 wnd 0306, target=0, location=Adelaide, Australia, key=curfew
-Group 38: - id=2910, dyannbridges yeshayad check rockin preview claytonbryant danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
- - id=2912, carsonrex spaceangelseven check rockin preview claytonbryant danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
- - id=2933, turnedonfetaboo hsjb215 check rockin preview claytonbryant danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
-Group 39: - id=2921, therealrittz fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
- - id=2929, bluebirddenver fettilootch slanglucci oppressions greatest danger coming soon album, target=1, location=Atlanta Georgia , key=danger
-Group 40: - id=2935, remainontop fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
- - id=2936, nuggets fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
-Group 41: - id=3073, deaths 7, target=1, location=Does it really matter!, key=deaths
+Group 40: - id=2910, check rockin preview danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
+ - id=2912, check rockin preview danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
+ - id=2933, check rockin preview danger zone coming soon artistsunited, target=0, location=Worldwide, key=danger
+Group 41: - id=2921, fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
+ - id=2929, fettilootch slanglucci oppressions greatest danger coming soon album, target=1, location=Atlanta Georgia , key=danger
+Group 42: - id=2935, fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
+ - id=2936, fettilootch slanglucci oppressions greatest danger coming soon album, target=0, location=Atlanta Georgia , key=danger
+Group 43: - id=3073, deaths 7, target=1, location=Does it really matter!, key=deaths
  - id=3079, deaths 3, target=0, location=Does it really matter!, key=deaths
-Group 42: - id=3086, cancers equate around 25 deaths blackpool kowing signs save life beclearoncancer, target=1, location=Blackpool, key=deaths
+Group 44: - id=3086, cancers equate around 25 deaths blackpool kowing signs save life beclearoncancer, target=1, location=Blackpool, key=deaths
  - id=3093, cancers equate around 25 deaths blackpool kowing signs save life beclearoncancer, target=1, location=Blackpool, key=deaths
-Group 43: - id=3111, malaysia confirms plane debris washed reunion island flight mh370, target=1, location=Nigeria , key=debris
+Group 45: - id=3111, malaysia confirms plane debris washed reunion island flight mh370, target=1, location=Nigeria , key=debris
  - id=3137, malaysia confirms plane debris washed reunion island flight mh370, target=1, location=Nigeria , key=debris
-Group 44: - id=3242, feel deluged low selfimage take quiz, target=0, location=Newcastle, key=deluged
+Group 46: - id=3242, feel deluged low selfimage take quiz, target=0, location=Newcastle, key=deluged
  - id=4674, engulfed low selfimage take quiz, target=0, location=Newcastle, key=engulfed
-Group 45: - id=3403, shantaeskyy gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
- - id=3406, modelbubbles gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
- - id=3414, temecafreeman gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=1, location= Road to the Billionaires Club, key=derail
-Group 46: - id=3415, 24 killed two simultaneous rail crash acute floods derail two trains india mumbai, target=1, location=Nairobi-KENYA, key=derail
+Group 47: - id=3403, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
+ - id=3406, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
+ - id=3414, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=1, location= Road to the Billionaires Club, key=derail
+Group 48: - id=3415, 24 killed two simultaneous rail crash acute floods derail two trains india mumbai, target=1, location=Nairobi-KENYA, key=derail
  - id=3437, 24 killed two simultaneous rail crash acute floods derail two trains india mumbai, target=1, location=Nairobi-KENYA, key=derail
-Group 47: - id=3421, thejenmorillo gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
- - id=3425, gloriavelez gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
- - id=3445, mzmandilynn gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
-Group 48: - id=3505, madhya pradesh train derailment village youth saved many lives, target=1, location=India, key=derailment
+Group 49: - id=3421, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
+ - id=3425, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
+ - id=3445, gm pray attack enemy 2 derail ur destiny blocked lord amp floods ur life wheavenly blessings, target=0, location= Road to the Billionaires Club, key=derail
+Group 50: - id=3505, madhya pradesh train derailment village youth saved many lives, target=1, location=India, key=derailment
  - id=3522, madhya pradesh train derailment village youth saved many lives, target=1, location=India, key=derailment
-Group 49: - id=3514, consent order cleanup underway csx derailment site knoxville news sentinel, target=1, location=Palo Alto, California, key=derailment
+Group 51: - id=3514, consent order cleanup underway csx derailment site knoxville news sentinel, target=1, location=Palo Alto, California, key=derailment
  - id=3549, consent order cleanup underway csx derailment site knoxville news sentinel, target=1, location=Palo Alto, California, key=derailment
-Group 50: - id=3527, latest trains derailment freakiest freak accidents indian express indi indiannews, target=1, location=Mumbai, key=derailment
+Group 52: - id=3527, latest trains derailment freakiest freak accidents indian express indi indiannews, target=1, location=Mumbai, key=derailment
  - id=3534, latest trains derailment freakiest freak accidents indian express indi indiannews, target=1, location=Mumbai, key=derailment
-Group 51: - id=3533, trains derailment freakiest freak accidents indian express news topstories, target=1, location=India, key=derailment
+Group 53: - id=3533, trains derailment freakiest freak accidents indian express news topstories, target=1, location=India, key=derailment
  - id=3536, trains derailment freakiest freak accidents indian express, target=1, location=India, key=derailment
-Group 52: - id=3582, binellithresa ty follow go brutally abuseddesolateamplost lovely mum diesis murder, target=1, location=Macclesfield, key=desolate
- - id=3589, booksbyroger ty follow go brutally abuseddesolateamplost lovely mum diesis murder, target=0, location=Macclesfield, key=desolate
-Group 53: - id=3798, tinyjecht another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
- - id=3806, spinningbot another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
- - id=3814, spinningbot another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
- - id=3828, tinyjecht another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
- - id=3836, spinningbot another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
- - id=3841, tinyjecht another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
-Group 54: - id=3879, detonation fashionable mountaineering electronic watch waterresistant couples leisure tab, target=1, location=New York, key=detonation
+Group 54: - id=3582, ty follow go brutally abuseddesolateamplost lovely mum diesis murder, target=1, location=Macclesfield, key=desolate
+ - id=3589, ty follow go brutally abuseddesolateamplost lovely mum diesis murder, target=0, location=Macclesfield, key=desolate
+Group 55: - id=3798, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+ - id=3806, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+ - id=3814, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+ - id=3828, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+ - id=3836, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+ - id=3841, another standuser will detonate killer queen, target=0, location=Morioh, Japan, key=detonate
+Group 56: - id=3879, detonation fashionable mountaineering electronic watch waterresistant couples leisure tab, target=1, location=New York, key=detonation
  - id=3889, detonation fashionable mountaineering electronic watch waterresistant couples leisure tab, target=0, location=New York, key=detonation
  - id=3894, detonation fashionable mountaineering electronic watch waterresistant couples leisure tab, target=0, location=New York, key=detonation
-Group 55: - id=3905, losdelsonido obama declares disaster typhoondevastated saipan obama signs disaster declaration northern ma ivanberroa, target=1, location=REPUBLICA DOMINICANA, key=devastated
+Group 57: - id=3905, losdelsonido obama declares disaster typhoondevastated saipan obama signs disaster declaration northern ma ivanberroa, target=1, location=REPUBLICA DOMINICANA, key=devastated
  - id=10080, losdelsonido obama declares disaster typhoondevastated saipan obama signs disaster declaration northern ma ivanberroa, target=1, location=REPUBLICA DOMINICANA, key=typhoon
-Group 56: - id=4025, illinois tornado slipped radar emergency officials say, target=1, location=Naperville, key=disaster
+Group 58: - id=4025, illinois tornado slipped radar emergency officials say, target=1, location=Naperville, key=disaster
  - id=9702, illinois tornado slipped radar emergency officials say, target=1, location=Naperville, key=tornado
-Group 57: - id=4049, myanmar displaced rohingya sittwe point return prison like conditions genocide ihhen msf refugees, target=1, location=Pedophile hunting ground, key=displaced
+Group 59: - id=4049, myanmar displaced rohingya sittwe point return prison like conditions genocide ihhen msf refugees, target=1, location=Pedophile hunting ground, key=displaced
  - id=4086, myanmar displaced rohingya sittwe point return prison like conditions genocide ihhen msf refugees, target=1, location=Pedophile hunting ground, key=displaced
-Group 58: - id=4068, potus strategicpatience strategy genocide refugees idp internally displaced people horror etc, target=1, location=Pedophile hunting ground, key=displaced
+Group 60: - id=4068, potus strategicpatience strategy genocide refugees idp internally displaced people horror etc, target=1, location=Pedophile hunting ground, key=displaced
  - id=4072, potus strategicpatience strategy genocide refugees idp internally displaced people horror etc, target=1, location=Pedophile hunting ground, key=displaced
  - id=4076, potus strategicpatience strategy genocide refugees idp internally displaced people horror etc, target=0, location=Pedophile hunting ground, key=displaced
  - id=4077, potus strategicpatience strategy genocide refugees idp internally displaced people horror etc, target=1, location=Pedophile hunting ground, key=displaced
-Group 59: - id=4080, angry woman openly accuses nema stealing relief materials meant idps angry internally displaced wom, target=1, location=Nigeria, key=displaced
+Group 61: - id=4080, angry woman openly accuses nema stealing relief materials meant idps angry internally displaced wom, target=1, location=Nigeria, key=displaced
  - id=4092, angry woman openly accuses nema stealing relief materials meant idps angry internally displaced wom, target=0, location=Nigeria, key=displaced
-Group 60: - id=4096, elem pomo helping displaced rocky fire please consider elem evacuation center via gofundme, target=1, location=Na:tinixw / Hoopa, Berkeley, key=displaced
- - id=4832, elem pomo helping displaced rocky fire please consider elem evacuation center via gofundme, target=1, location=Na:tinixw / Hoopa, Berkeley, key=evacuation
-Group 61: - id=4250, drowning girl caitlin r kiernan centipede press signed numbered limited full re, target=0, location=New York, key=drowning
+Group 62: - id=4096, elem pomo helping displaced rocky fire please consider elem evacuation center via, target=1, location=Na:tinixw / Hoopa, Berkeley, key=displaced
+ - id=4832, elem pomo helping displaced rocky fire please consider elem evacuation center via, target=1, location=Na:tinixw / Hoopa, Berkeley, key=evacuation
+Group 63: - id=4250, drowning girl caitlin r kiernan centipede press signed numbered limited full re, target=0, location=New York, key=drowning
  - id=4281, drowning girl caitlin r kiernan centipede press signed numbered limited full re, target=0, location=New York, key=drowning
-Group 62: - id=4256, drowning low selfimage take quiz, target=0, location=Coventry, key=drowning
+Group 64: - id=4256, drowning low selfimage take quiz, target=0, location=Coventry, key=drowning
  - id=4670, feel engulfed low selfimage take quiz, target=0, location=Coventry, key=engulfed
  - id=4695, feel engulfed low selfimage take quiz, target=0, location=Coventry, key=engulfed
-Group 63: - id=4354, usgs eq m 12 23km s twentynine palms california time20150805 235409 utc20150805 16 earthquake, target=1, location=California, USA, key=earthquake
+Group 65: - id=4354, usgs eq m 12 23km s twentynine palms california time20150805 235409 utc20150805 16 earthquake, target=1, location=California, USA, key=earthquake
  - id=4365, usgs m 12 23km s twentynine palms california time20150805 235409 utc20150805 165409 070 sm, target=1, location=California, USA, key=earthquake
-Group 64: - id=4373, usgs reports m194 earthquake 5km s volcano hawaii 8615 10401 utc quake, target=1, location=Hawaii, USA, key=earthquake
+Group 66: - id=4373, usgs reports m194 earthquake 5km s volcano hawaii 8615 10401 utc quake, target=1, location=Hawaii, USA, key=earthquake
  - id=10220, usgs reports m194 earthquake 5km s volcano hawaii 8615 10401 utc quake, target=1, location=Hawaii, USA, key=volcano
-Group 65: - id=4499, survival kit whistle fire starter wire saw cree torch emergency blanket s knife full re, target=1, location=New York, key=emergency
+Group 67: - id=4499, survival kit whistle fire starter wire saw cree torch emergency blanket s knife full re, target=1, location=New York, key=emergency
  - id=4507, survival kit whistle fire starter wire saw cree torch emergency blanket s knife full re, target=0, location=New York, key=emergency
-Group 66: - id=4541, batfanuk enjoyed show today great fun emergency non evacuation interesting great run, target=0, location=Renfrew, Scotland, key=emergency
- - id=4844, batfanuk enjoyed show today great fun emergency non evacuation interesting great run, target=0, location=Renfrew, Scotland, key=evacuation
-Group 67: - id=4619, want work missionhills ca view latest opening nursing job jobs hiring, target=0, location=Los Angeles, CA, key=emergency services
+Group 68: - id=4541, enjoyed show today great fun emergency non evacuation interesting great run, target=0, location=Renfrew, Scotland, key=emergency
+ - id=4844, enjoyed show today great fun emergency non evacuation interesting great run, target=0, location=Renfrew, Scotland, key=evacuation
+Group 69: - id=4619, want work missionhills ca view latest opening nursing job jobs hiring, target=0, location=Los Angeles, CA, key=emergency services
  - id=4637, want work tarzana ca view latest opening nursing job jobs hiring, target=0, location=Los Angeles, CA, key=emergency services
-Group 68: - id=4769, new evacuation ordered 25 homes danger hwy 8 fire near roosevelt wash koin6news, target=1, location=Portland, Ore. , key=evacuated
+Group 70: - id=4769, new evacuation ordered 25 homes danger hwy 8 fire near roosevelt wash koin6news, target=1, location=Portland, Ore. , key=evacuated
  - id=4853, new evacuation ordered 25 homes danger hwy 8 fire near roosevelt wash koin6news, target=1, location=Portland, Ore. , key=evacuation
-Group 69: - id=4961, new explosionproof tempered glass screen protector film blackberry z10 full read, target=0, location=New York, key=explosion
+Group 71: - id=4961, new explosionproof tempered glass screen protector film blackberry z10 full read, target=0, location=New York, key=explosion
  - id=4992, new explosionproof tempered glass screen protector film blackberry z10 full read, target=0, location=New York, key=explosion
  - id=4993, new explosionproof tempered glass screen protector film blackberry z10 full read, target=0, location=New York, key=explosion
  - id=5002, new explosionproof tempered glass screen protector film blackberry z10 full read, target=0, location=New York, key=explosion
-Group 70: - id=5087, reuters russian food crematoria provoke outrage amid crisis famine memories, target=1, location=Ukraine, key=famine
+Group 72: - id=5087, reuters russian food crematoria provoke outrage amid crisis famine memories, target=1, location=Ukraine, key=famine
  - id=5102, food crematoria russia provoke outrage amid crisis famine memories, target=1, location=Ukraine, key=famine
-Group 71: - id=5462, new snap tools black baseball hatcap silvergray embroidered s logo flames full re, target=0, location=New York, key=flames
+Group 73: - id=5462, new snap tools black baseball hatcap silvergray embroidered s logo flames full re, target=0, location=New York, key=flames
  - id=5465, new snap tools black baseball hatcap silvergray embroidered s logo flames full re, target=0, location=New York, key=flames
  - id=5481, new snap tools black baseball hatcap silvergray embroidered s logo flames full re, target=0, location=New York, key=flames
-Group 72: - id=5564, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=1, location=New York, key=flood
+Group 74: - id=5564, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=1, location=New York, key=flood
  - id=5565, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
  - id=5577, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
  - id=5595, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
  - id=5598, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
  - id=5599, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
  - id=5603, spot flood combo 53inch 300w curved cree led work light bar 4x4 offroad fog lamp full re, target=0, location=New York, key=flood
-Group 73: - id=5579, 12 72w cree led work light bar alloy spot flood combo diving offroad 4wd boat full read, target=0, location=New York, key=flood
+Group 75: - id=5579, 12 72w cree led work light bar alloy spot flood combo diving offroad 4wd boat full read, target=0, location=New York, key=flood
  - id=5609, 12 72w cree led work light bar alloy spot flood combo diving offroad 4wd boat full read, target=0, location=New York, key=flood
-Group 74: - id=5580, 2pcs 18w cree led work light offroad lamp car truck boat mining 4wd flood beam full rea, target=1, location=New York, key=flood
+Group 76: - id=5580, 2pcs 18w cree led work light offroad lamp car truck boat mining 4wd flood beam full rea, target=1, location=New York, key=flood
  - id=5588, 2pcs 18w cree led work light offroad lamp car truck boat mining 4wd flood beam full rea, target=0, location=New York, key=flood
  - id=5592, 2pcs 18w cree led work light offroad lamp car truck boat mining 4wd flood beam full rea, target=0, location=New York, key=flood
-Group 75: - id=5612, cuban leader extends sympathy vietnam flooding, target=1, location=Vietnam, key=flooding
+Group 77: - id=5612, cuban leader extends sympathy vietnam flooding, target=1, location=Vietnam, key=flooding
  - id=5628, cuban leader extends sympathy vietnam flooding, target=1, location=Vietnam, key=flooding
-Group 76: - id=5843, calgary news weather traffic august 5 90, target=0, location=far away, key=hailstorm
+Group 78: - id=5843, calgary news weather traffic august 5 90, target=0, location=far away, key=hailstorm
  - id=5875, calgary news weather traffic august 5 45, target=0, location=far away, key=hailstorm
-Group 77: - id=5890, leedsrouge love picked playing worth fifth harmkid ink listen amp vote, target=1, location=Kansas City, key=harm
- - id=5898, dinallyhot love picked playing worth fifth harmkid ink listen amp vote, target=0, location=Kansas City, key=harm
- - id=5921, 5hvzlaradio love picked playing worth fifth harmkid ink listen amp vote, target=0, location=Kansas City, key=harm
-Group 78: - id=5992, jax issues hazardous weather outlook hwo wx, target=1, location=United States, key=hazardous
+Group 79: - id=5890, love picked playing worth fifth harmkid ink listen amp vote, target=1, location=Kansas City, key=harm
+ - id=5898, love picked playing worth fifth harmkid ink listen amp vote, target=0, location=Kansas City, key=harm
+ - id=5921, love picked playing worth fifth harmkid ink listen amp vote, target=0, location=Kansas City, key=harm
+Group 80: - id=5992, jax issues hazardous weather outlook hwo wx, target=1, location=United States, key=hazardous
  - id=6003, jkl issues hazardous weather outlook hwo wx, target=1, location=United States, key=hazardous
  - id=6007, meg issues hazardous weather outlook hwo wx, target=1, location=United States, key=hazardous
  - id=6033, dlh issues hazardous weather outlook hwo wx, target=1, location=United States, key=hazardous
-Group 79: - id=5998, skinny jeans hazardous health socialnews, target=1, location=British Columbia, Canada, key=hazardous
+Group 81: - id=5998, skinny jeans hazardous health socialnews, target=1, location=British Columbia, Canada, key=hazardous
  - id=6034, skinny jeans hazardous health socialnews, target=1, location=British Columbia, Canada, key=hazardous
-Group 80: - id=6004, hearitfrompa also pls help us w campaign warn public hazardous keratin treatments brazilian blowout copycats, target=0, location=Muntinlupa City, Philippines, key=hazardous
- - id=6009, hearitfrompatty also pls help us w campaign warn public hazardous keratin treatments brazilian blowout copycats, target=0, location=Muntinlupa City, Philippines, key=hazardous
-Group 81: - id=6169, latest post bayelsa poll tension bayelsa patience jonathan plans hijack apc pdp, target=0, location=Nigeria, key=hijack
+Group 82: - id=6004, also pls help us w campaign warn public hazardous keratin treatments brazilian blowout copycats, target=0, location=Muntinlupa City, Philippines, key=hazardous
+ - id=6009, also pls help us w campaign warn public hazardous keratin treatments brazilian blowout copycats, target=0, location=Muntinlupa City, Philippines, key=hazardous
+Group 83: - id=6169, latest post bayelsa poll tension bayelsa patience jonathan plans hijack apc pdp, target=0, location=Nigeria, key=hijack
  - id=6171, tension bayelsa patience jonathan plans hijack apc pdp, target=1, location=Nigeria, key=hijack
-Group 82: - id=6217, governor weighs parole california school bus hijacker, target=0, location=California , key=hijacker
+Group 84: - id=6217, governor weighs parole california school bus hijacker, target=0, location=California , key=hijacker
  - id=6219, governor weighs parole california school bus hijacker, target=1, location=California , key=hijacker
-Group 83: - id=6220, rt notexplained known image infamous hijacker db cooper, target=0, location=worldwide, key=hijacker
+Group 85: - id=6220, rt notexplained known image infamous hijacker db cooper, target=0, location=worldwide, key=hijacker
  - id=6223, rt notexplained known image infamous hijacker db cooper, target=1, location=worldwide, key=hijacker
-Group 84: - id=6256, hot funtenna hijacking computers send data sound waves black hat 2015 prebreak best, target=0, location=Brazil, key=hijacking
+Group 86: - id=6256, hot funtenna hijacking computers send data sound waves black hat 2015 prebreak best, target=0, location=Brazil, key=hijacking
  - id=6272, hot funtenna hijacking computers send data sound waves black hat 2015 prebreak best, target=0, location=Brazil, key=hijacking
-Group 85: - id=6303, islamic state group egypt threatens kill croat hostage, target=1, location=Roaming around the world, key=hostage
+Group 87: - id=6303, islamic state group egypt threatens kill croat hostage, target=1, location=Roaming around the world, key=hostage
  - id=6317, islamic state group egypt threatens kill croat hostage, target=1, location=Roaming around the world, key=hostage
-Group 86: - id=6366, hot c130 specially modified land stadium rescue hostages iran 1980 prebreak best, target=0, location=china, key=hostages
+Group 88: - id=6366, hot c130 specially modified land stadium rescue hostages iran 1980 prebreak best, target=0, location=china, key=hostages
  - id=6382, hot c130 specially modified land stadium rescue hostages iran 1980 prebreak best, target=1, location=china, key=hostages
-Group 87: - id=6395, bluedio turbine hurricane h bluetooth 41 wireless stereo headphones headset blk full re, target=0, location=New York, key=hurricane
+Group 89: - id=6395, bluedio turbine hurricane h bluetooth 41 wireless stereo headphones headset blk full re, target=0, location=New York, key=hurricane
  - id=6414, bluedio turbine hurricane h bluetooth 41 wireless stereo headphones headset blk full re, target=0, location=New York, key=hurricane
-Group 88: - id=6396, lavapixcom see hurricane guillermo meteoearth, target=1, location=Berlin - Germany, key=hurricane
- - id=6415, vinustrip see hurricane guillermo meteoearth, target=1, location=Berlin - Germany, key=hurricane
-Group 89: - id=6470, christiec733 please support please cosponsor s 928 support aid sick injured 911 responders renew911health, target=1, location=Bronx NY, key=injured
- - id=6481, wearethenews please support please cosponsor s 928 support aid sick injured 911 responders renew911health, target=1, location=Bronx NY, key=injured
-Group 90: - id=6585, laois girl advertised new friend replace lovedup bff inundated, target=0, location=Ireland, key=inundated
+Group 90: - id=6396, see hurricane guillermo meteoearth, target=1, location=Berlin - Germany, key=hurricane
+ - id=6415, see hurricane guillermo meteoearth, target=1, location=Berlin - Germany, key=hurricane
+Group 91: - id=6470, please support please cosponsor s 928 support aid sick injured 911 responders renew911health, target=1, location=Bronx NY, key=injured
+ - id=6481, please support please cosponsor s 928 support aid sick injured 911 responders renew911health, target=1, location=Bronx NY, key=injured
+Group 92: - id=6585, laois girl advertised new friend replace lovedup bff inundated, target=0, location=Ireland, key=inundated
  - id=6596, laois girl advertised new friend replace lovedup bff inundated, target=0, location=Ireland, key=inundated
-Group 91: - id=6789, lightning strike distance via rpics pics, target=1, location=Reddit , key=lightning
+Group 93: - id=6789, lightning strike distance via rpics pics, target=1, location=Reddit , key=lightning
  - id=6793, lightning strike distance via rpics pics, target=1, location=Reddit , key=lightning
-Group 92: - id=6799, kabwandi breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
+Group 94: - id=6799, kabwandi breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6800, tkyonly1fmk breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6804, ercjmnea breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6807, kotolily breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6808, tarmineta3 breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6809, shawie17shawie breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6813, tianta breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=1, location=Kenya, key=loud bang
-Group 93: - id=6819, nikoniko12022 breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
+Group 95: - id=6819, nikoniko12022 breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6823, jrowah breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=1, location=Kenya, key=loud bang
  - id=6824, kmatakobot breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6830, kijimamatako breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
@@ -242,42 +246,44 @@ Group 93: - id=6819, nikoniko12022 breaking news unconfirmed just heard loud ban
  - id=6837, daviesmutia breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=1, location=Kenya, key=loud bang
  - id=6844, matakomilk breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
  - id=6847, colnharun breaking news unconfirmed just heard loud bang nearby appears blast wind neighbours ass, target=0, location=Kenya, key=loud bang
-Group 94: - id=6854, media needs stop publicizing mass murder many sick people things eyes world amp media helping, target=1, location=New Sweden, key=mass murder
+Group 96: - id=6854, media needs stop publicizing mass murder many sick people things eyes world amp media helping, target=1, location=New Sweden, key=mass murder
  - id=6882, media needs stop publicizing mass murder many sick people want eyes world media, target=0, location=New Sweden, key=mass murder
-Group 95: - id=6874, royalcarribean passengers know mass murder takes place faroeislands every year, target=1, location=Anonymous, key=mass murder
- - id=6881, royalcarribean passengers know mass murder takes place faroeislands every year, target=1, location=Anonymous, key=mass murder
-Group 96: - id=7015, nosurrender results full metal mayhem world title match bully ray taken career comes end, target=0, location=107-18 79TH STREET, key=mayhem
+Group 97: - id=6874, passengers know mass murder takes place faroeislands every year, target=1, location=Anonymous, key=mass murder
+ - id=6881, passengers know mass murder takes place faroeislands every year, target=1, location=Anonymous, key=mass murder
+Group 98: - id=6900, hillary mass murderer, target=0, location=Haysville, KS, key=mass murderer
+ - id=6920, hillary mass murderer, target=1, location=Haysville, KS, key=mass murderer
+Group 99: - id=7015, nosurrender results full metal mayhem world title match bully ray taken career comes end, target=0, location=107-18 79TH STREET, key=mayhem
  - id=7044, nosurrender results full metal mayhem world title match bully ray taken career comes end, target=0, location=107-18 79TH STREET, key=mayhem
-Group 97: - id=7223, natural unavoidable consequence socialism everywhere tried, target=1, location=America of Founding Fathers, key=natural disaster
+Group 100: - id=7223, natural unavoidable consequence socialism everywhere tried, target=1, location=America of Founding Fathers, key=natural disaster
  - id=7230, natural unavoidable consequence socialism everywhere tried e, target=0, location=America of Founding Fathers, key=natural disaster
  - id=7241, natural unavoidable consequence socialism everywhere tried f, target=0, location=America of Founding Fathers, key=natural disaster
-Group 98: - id=7362, watch sarah palin obliterate planned parenthood targeting minority women bb4sp, target=1, location=EIC, key=obliterate
+Group 101: - id=7362, watch sarah palin obliterate planned parenthood targeting minority women bb4sp, target=1, location=EIC, key=obliterate
  - id=7386, watch sarah palin obliterate planned parenthood targeting minority women bb4sp, target=0, location=EIC, key=obliterate
-Group 99: - id=7410, wackoes like michelebachman predict world will soon obliterated burning firey inferno cant accept globalwarming hello, target=0, location=Tennessee, key=obliterated
+Group 102: - id=7410, wackoes like michelebachman predict world will soon obliterated burning firey inferno cant accept globalwarming hello, target=0, location=Tennessee, key=obliterated
  - id=7425, wackos like michelebachman predict world will soon obliterated burning firey inferno cant accept globalwarming hello, target=1, location=Tennessee, key=obliterated
-Group 100: - id=7501, la times refugio oil spill may costlier bigger projected, target=1, location=United Kingdom, key=oil spill
+Group 103: - id=7501, la times refugio oil spill may costlier bigger projected, target=1, location=United Kingdom, key=oil spill
  - id=7542, la times refugio oil spill may costlier bigger projected, target=1, location=United Kingdom, key=oil spill
-Group 101: - id=7503, refugio oil spill may costlier bigger projected, target=1, location=California, key=oil spill
+Group 104: - id=7503, refugio oil spill may costlier bigger projected, target=1, location=California, key=oil spill
  - id=7510, refugio oil spill may costlier bigger projected, target=1, location=California, key=oil spill
-Group 102: - id=7504, refugio oil spill may costlier bigger projected, target=1, location=Los Angeles, CA, key=oil spill
+Group 105: - id=7504, refugio oil spill may costlier bigger projected, target=1, location=Los Angeles, CA, key=oil spill
  - id=7531, refugio oil spill may costlier bigger projected, target=1, location=Los Angeles, CA, key=oil spill
-Group 103: - id=7520, refugio oil spill may costlier bigger projected, target=1, location=Street of Dallas, key=oil spill
+Group 106: - id=7520, refugio oil spill may costlier bigger projected, target=1, location=Street of Dallas, key=oil spill
  - id=7532, refugio oil spill may costlier bigger projected, target=1, location=Street of Dallas, key=oil spill
-Group 104: - id=7528, news refugio oil spill may costlier bigger projected, target=1, location=Lyallpur, Pakistan, key=oil spill
+Group 107: - id=7528, news refugio oil spill may costlier bigger projected, target=1, location=Lyallpur, Pakistan, key=oil spill
  - id=7536, news refugio oil spill may costlier bigger projected, target=1, location=Lyallpur, Pakistan, key=oil spill
-Group 105: - id=7602, pandemonium aba woman delivers baby without face photos, target=1, location=Dallas Fort-Worth, key=pandemonium
+Group 108: - id=7602, pandemonium aba woman delivers baby without face photos, target=1, location=Dallas Fort-Worth, key=pandemonium
  - id=7626, pandemonium aba woman delivers baby without face photos, target=0, location=Dallas Fort-Worth, key=pandemonium
-Group 106: - id=7773, oops bounty hunters try raid phoenix police chiefs home, target=0, location=Indonesia, key=police
+Group 109: - id=7773, oops bounty hunters try raid phoenix police chiefs home, target=0, location=Indonesia, key=police
  - id=7790, oops bounty hunters try raid phoenix police chiefs home group armed bounty hunters surrounded h, target=1, location=Indonesia, key=police
-Group 107: - id=7872, top link reddits new content policy goes effect many horrible subreddits banned quarantined, target=0, location=China, key=quarantined
+Group 110: - id=7872, top link reddits new content policy goes effect many horrible subreddits banned quarantined, target=0, location=China, key=quarantined
  - id=7894, hot reddits new content policy goes effect many horrible subreddits banned quarantined prebreak best, target=0, location=China, key=quarantined
-Group 108: - id=7991, george njenga hero saved burning friend razing wildfire, target=1, location=Nairobi-KENYA, key=razed
+Group 111: - id=7991, george njenga hero saved burning friend razing wildfire, target=1, location=Nairobi-KENYA, key=razed
  - id=8003, george njenga hero saved burning friend razing wildfire, target=1, location=Nairobi-KENYA, key=razed
-Group 109: - id=8064, ud rescue structural collapse scott road ypres road york 14 trucks, target=1, location=Toronto, Ontario, key=rescue
+Group 112: - id=8064, ud rescue structural collapse scott road ypres road york 14 trucks, target=1, location=Toronto, Ontario, key=rescue
  - id=8084, ud rescue structural collapse scott road ypres road york 14 trucks, target=1, location=Toronto, Ontario, key=rescue
-Group 110: - id=8261, bbcnews ass british insurers says rioting will cost insurers amp163163millions police numbers reduced blind fat contr, target=1, location=A little house in the outback., key=rioting
+Group 113: - id=8261, bbcnews ass british insurers says rioting will cost insurers amp163163millions police numbers reduced blind fat contr, target=1, location=A little house in the outback., key=rioting
  - id=8289, bbcnews ass british insurers says rioting will cost insurers163millions police numbers reduced blind fat controllers, target=1, location=A little house in the outback., key=rioting
-Group 111: - id=8393, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
+Group 114: - id=8393, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
  - id=8400, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
  - id=8404, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
  - id=8405, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
@@ -294,58 +300,55 @@ Group 111: - id=8393, watch airport get swallowed sandstorm minute, target=1, lo
  - id=8433, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
  - id=8435, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
  - id=8441, watch airport get swallowed sandstorm minute, target=1, location=USA, key=sandstorm
-Group 112: - id=8409, watch airport get swallowed sandstorm minute, target=1, location=United States, key=sandstorm
+Group 115: - id=8409, watch airport get swallowed sandstorm minute, target=1, location=United States, key=sandstorm
  - id=8416, watch airport get swallowed sandstorm minute, target=1, location=United States, key=sandstorm
-Group 113: - id=8500, camilacabello97 internally externally screaming, target=1, location=tx, key=screaming
- - id=8504, camilacabello97 now im internally screaming, target=0, location=tx, key=screaming
-Group 114: - id=8608, exploration takes seismic shift gabon somalia worldoil subscription somalia, target=0, location=Somalia, key=seismic
+Group 116: - id=8608, exploration takes seismic shift gabon somalia worldoil subscription somalia, target=0, location=Somalia, key=seismic
  - id=8623, oil gas exploration takes seismic shift gabon somalia bloomberg somalia, target=1, location=Somalia, key=seismic
-Group 115: - id=8647, large sinkhole swallows entire pond lowndes county georgia large sinkhole occasion2b, target=1, location=Above the snake line - #YoNews, key=sinkhole
+Group 117: - id=8647, large sinkhole swallows entire pond lowndes county georgia large sinkhole occasion2b, target=1, location=Above the snake line - #YoNews, key=sinkhole
  - id=8657, large sinkhole swallows entire pond lowndes county georgia yonews, target=1, location=Above the snake line - #YoNews, key=sinkhole
-Group 116: - id=8902, sassy city girl country hunk stranded smoky mountain snowstorm aoms ibooklove bookboost, target=1, location=South, USA, key=snowstorm
+Group 118: - id=8902, sassy city girl country hunk stranded smoky mountain snowstorm aoms ibooklove bookboost, target=1, location=South, USA, key=snowstorm
  - id=8912, sassy city girl country hunk stranded smoky mountain snowstorm aoms ibooklove bookboost, target=0, location=South, USA, key=snowstorm
  - id=8924, sassy city girl country hunk stranded smoky mountain snowstorm aoms ibooklove bookboost, target=1, location=South, USA, key=snowstorm
-Group 117: - id=8996, stretcher invalid grazed rexyy towel see programme, target=0, location=Taylor Swift, key=stretcher
- - id=9025, grazed invalid stretcher rexyy towel ben favorited, target=0, location=Taylor Swift, key=stretcher
-Group 118: - id=9001, restore vinyl siding make look new, target=0, location=Florida, key=stretcher
+Group 119: - id=9001, restore vinyl siding make look new, target=0, location=Florida, key=stretcher
  - id=9038, restore vinyl siding make look new, target=0, location=Florida, key=stretcher
-Group 119: - id=9053, investigators say fatal virgin galactic spaceship crash last year caused structural failure, target=1, location=Bukittinggi  ?? Sumatera Barat, key=structural failure
+Group 120: - id=9053, investigators say fatal virgin galactic spaceship crash last year caused structural failure, target=1, location=Bukittinggi  ?? Sumatera Barat, key=structural failure
  - id=9074, investigators said virgin galactic spaceship crash caused structural failure copilot, target=1, location=Bukittinggi  ?? Sumatera Barat, key=structural failure
-Group 120: - id=9054, rightways building structural integrity amp failure problems inspections repair via rightwaystan, target=0, location=Asia, key=structural failure
- - id=9064, rightways building structural integrity amp failure inspections damages defects testing repair via rightwaystan, target=1, location=Asia, key=structural failure
-Group 121: - id=9095, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
+Group 121: - id=9054, rightways building structural integrity amp failure problems inspections repair via, target=0, location=Asia, key=structural failure
+ - id=9064, rightways building structural integrity amp failure inspections damages defects testing repair via, target=1, location=Asia, key=structural failure
+Group 122: - id=9095, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
  - id=9098, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
  - id=9107, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
  - id=9113, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
  - id=9114, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
  - id=9135, bestnaijamade 16yr old pkk suicide bomber detonated bomb bestnaijamade bestnaijamade bestnaijamade, target=1, location=Nigeria, key=suicide bomb
-Group 122: - id=9101, pic 16yr old pkk suicide bomber detonated bomb turkey army trench released, target=1, location=Nigeria, key=suicide bomb
+Group 123: - id=9101, pic 16yr old pkk suicide bomber detonated bomb turkey army trench released, target=1, location=Nigeria, key=suicide bomb
  - id=9134, grupdates pic 16yr old pkk suicide bomber detonated bomb turkey army trench released gt, target=1, location=Nigeria, key=suicide bomb
  - id=9139, 16yr old boy pic pkk suicide bomber detonated bomb turkey army trench, target=1, location=Nigeria, key=suicide bomb
-Group 123: - id=9210, turkish troops killed kurdish militant suicide attack, target=1, location=USA, key=suicide bombing
+Group 124: - id=9210, turkish troops killed kurdish militant suicide attack, target=1, location=USA, key=suicide bombing
  - id=9220, turkish troops killed kurdish militant suicide attack, target=1, location=USA, key=suicide bombing
  - id=9235, turkish troops killed kurdish militant suicide attack, target=1, location=USA, key=suicide bombing
-Group 124: - id=9249, aquarium ornament wreck sailing boat sunk ship destroyer fish tank cave decor full read, target=1, location=New York, key=sunk
+Group 125: - id=9249, aquarium ornament wreck sailing boat sunk ship destroyer fish tank cave decor full read, target=1, location=New York, key=sunk
  - id=9276, aquarium ornament wreck sailing boat sunk ship destroyer fish tank cave decor full read, target=1, location=New York, key=sunk
-Group 125: - id=9531, rt abbswinston zionist terrorist kidnapped 15 palestinians overnight terror palestinian villages, target=1, location=MAD as Hell, key=terrorist
+Group 126: - id=9531, rt abbswinston zionist terrorist kidnapped 15 palestinians overnight terror palestinian villages, target=1, location=MAD as Hell, key=terrorist
  - id=9539, rt abbswinston zionist terrorist kidnapped 15 palestinians overnight terror palestinian villages, target=1, location=MAD as Hell, key=terrorist
-Group 126: - id=9620, nws continued severe thunderstorm warning oklahomaok 1030 pm, target=1, location=El Dorado, Arkansas, key=thunderstorm
+Group 127: - id=9620, nws continued severe thunderstorm warning oklahomaok 1030 pm, target=1, location=El Dorado, Arkansas, key=thunderstorm
  - id=9655, nws issued severe thunderstorm warning oklahomaok 1030 pm, target=1, location=El Dorado, Arkansas, key=thunderstorm
-Group 127: - id=9669, ar severe thunderstorm warning issued august 05 912pm cdt august 05 945pm cdt nws arwx, target=1, location=Midwest, key=tornado
+Group 128: - id=9669, ar severe thunderstorm warning issued august 05 912pm cdt august 05 945pm cdt nws arwx, target=1, location=Midwest, key=tornado
  - id=9673, ok severe thunderstorm warning issued august 05 829pm cdt august 05 915pm cdt nws okwx, target=1, location=Midwest, key=tornado
-Group 128: - id=9961, heleneyancey godslove amp thanku sister helene rt new video coming apocalyptic us earthquake amp tsunami, target=1, location=in the Word of God, key=tsunami
- - id=10004, greenlacey godslove amp thanku sister rt new video coming apocalyptic us earthquake amp tsunami, target=0, location=in the Word of God, key=tsunami
-Group 129: - id=10110, look state actions year fergusons upheaval, target=0, location=Oregon, key=upheaval
+Group 129: - id=9961, godslove amp thanku sister helene rt new video coming apocalyptic us earthquake amp tsunami, target=1, location=in the Word of God, key=tsunami
+ - id=9963, godslove amp thanku brother danny rt new video coming apocalyptic us earthquake amp tsunami, target=0, location=in the Word of God, key=tsunami
+ - id=10004, godslove amp thanku sister rt new video coming apocalyptic us earthquake amp tsunami, target=0, location=in the Word of God, key=tsunami
+Group 130: - id=10110, look state actions year fergusons upheaval, target=0, location=Oregon, key=upheaval
  - id=10124, look state actions year fergusons upheaval, target=0, location=Oregon, key=upheaval
-Group 130: - id=10139, diageos ceo stresses board revolt united spirits impacted indian operations, target=0, location=London, UK, key=upheaval
+Group 131: - id=10139, diageos ceo stresses board revolt united spirits impacted indian operations, target=0, location=London, UK, key=upheaval
  - id=10151, diageos ceo stresses board revolt united spirits impacted indian operations, target=0, location=London, UK, key=upheaval
-Group 131: - id=10551, reality training train falls elevated tracks windstorm, target=1, location=Puerto Rico, key=windstorm
+Group 132: - id=10551, reality training train falls elevated tracks windstorm, target=1, location=Puerto Rico, key=windstorm
  - id=10561, reality training train falls elevated tracks windstorm, target=1, location=Puerto Rico, key=windstorm
-Group 132: - id=10591, officer wounded suspect killed exchange gunfire richmond police officer wounded suspect killed exc, target=1, location=Paterson, New Jersey , key=wounded
+Group 133: - id=10591, officer wounded suspect killed exchange gunfire richmond police officer wounded suspect killed exc, target=1, location=Paterson, New Jersey , key=wounded
  - id=10632, police officer wounded suspect dead exchanging shots richmond police officer wounded suspect killed, target=1, location=Paterson, New Jersey , key=wounded
-Group 133: - id=10613, police officer wounded suspect dead exchanging shots abc news an247, target=1, location=USA, key=wounded
+Group 134: - id=10613, police officer wounded suspect dead exchanging shots abc news an247, target=1, location=USA, key=wounded
  - id=10628, abc news police officer wounded suspect dead exchanging shots news, target=1, location=USA, key=wounded
-Group 134: - id=10735, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
+Group 135: - id=10735, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
  - id=10744, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
  - id=10752, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
  - id=10753, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
@@ -355,5 +358,5 @@ Group 134: - id=10735, wreckage conclusively confirmed mh370 malaysia pm investi
  - id=10775, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
  - id=10780, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
  - id=10784, wreckage conclusively confirmed mh370 malaysia pm investigators families, target=1, location=Mumbai, key=wreckage
-Group 135: - id=10765, science now piece wreckage flight mh370 confirmed runion island possible t, target=1, location=iTunes, key=wreckage
+Group 136: - id=10765, science now piece wreckage flight mh370 confirmed runion island possible t, target=1, location=iTunes, key=wreckage
  - id=10770, science now piece wreckage flight mh370 confirmed runion island possible t, target=1, location=iTunes, key=wreckage
