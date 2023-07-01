@@ -24,12 +24,14 @@ Github: https://github.com/yakhimm/Disaster_Tweets
 |:----:|:----:|
 | Khám phá dữ liệu (EDA) | Trinh | 
 | Tiền xử lý dữ liệu | Thái, Trường |
-| Rút trích đặc trưng | Thái, Trường |
 | Xây dựng mô hình | Minh, Khiêm, Tiến |
 | Phân tích và đánh giá kết quả | Minh, Khiêm, Tiến |
 | Cải thiện độ chính xác | Minh, Khiêm |
 | Tìm hiểu lý thuyết của mô hình | Tiến, Trường |
 | Quay video | Cả nhóm |
+
+### 3. Video thuyết trình 
+https://drive.google.com/file/d/1P-iorRwk_3gTU3eBUQAGBCdA1SJfQzDQ/view?usp=sharing
 
 ## II. GIỚI THIỆU CHUNG VỀ ĐỒ ÁN
 Với yêu cầu của [cuộc thi Kaggle](https://www.kaggle.com/competitions/nlp-getting-started/overview) là phân loại Tweet, dựa trên dữ liệu đầu vào là 1 bài Tweet có nội dung là một đoạn văn bản thuần, cần tiến hành phân loại thành hai nhóm 0 - Không có thảm họa và 1 - Có thảm họa. Dựa theo yêu cầu và bộ dữ liệu được cung cấp, nhóm đã tiến hành khám phá, tiền xử lý dữ liệu, xây dựng, huấn luyện mô hình thích hợp để hoàn thành yêu cầu phân loại Tweet của đề bài.
